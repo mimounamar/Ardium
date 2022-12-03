@@ -16,7 +16,7 @@ Built using Java and Forge, this mod includes the first lines of code that I hav
 
 ## Demo
 
-Due to the loss of data encountred, I won't be able to provide you with the possibility to try for yourself. However, I can redirect you to the following video (not made by me) which highlights the most important features of the mod.
+Due to the loss of data encountred, I won't be able to provide you with the possibility to try for yourself. However, I can redirect you to the following video (not made by me) which highlights the most important features of the mod: https://youtu.be/NMIXehCsurg?t=184
 
 ## Warning
 
