@@ -28,7 +28,7 @@
 
 🇬🇧 Due to the loss of data encountred, I won't be able to provide you with the possibility to try for yourself. However, I can redirect you to the following video (not made by me) which highlights the most important features of the mod: https://youtu.be/NMIXehCsurg?t=184
 
-🇫🇷 À cause des pertes de données auxquelles j'ai du faire face, je ne suis pas apte de vous proposer une demonstration personnalisée. Cependant, je peux vous rediriger vers une vidéo (pas faite par moi) qui présente les fonctionnalités principales. https://youtu.be/NMIXehCsurg?t=184
+🇫🇷 À cause des pertes de données auxquelles j'ai dû faire face, je ne suis pas apte de vous proposer une demonstration personnalisée. Cependant, je peux vous rediriger vers une vidéo (pas faite par moi) qui présente les fonctionnalités principales. https://youtu.be/NMIXehCsurg?t=184
 
 ## Warning - Attention
 
